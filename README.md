@@ -1,6 +1,6 @@
 # Generative-deep-learning-with-Tensorflow-assignements
 
-This repository contains my answers to the Generative deep learning with TensorFlow in Coursera. In this course, we explored style transfer and generative models such as Variational Auto-encoder (VAE) and Generative adversarial Network (GAN). We also:
+This repository contains my answers to the Generative deep learning with TensorFlow assignments in Coursera. In this course, we explored style transfer and generative models such as Variational Auto-encoder (VAE) and Generative adversarial Network (GAN). We also:
 
 1) Built AutoEncoders on the MNIST dataset and the Fashion MNIST dataset.
 2) Implemented de-noising algorithms using an AutoEncoder to produce a clean image from a noisy one.
