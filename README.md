@@ -8,4 +8,5 @@ This repository contain my answers to the Generative deep learning with TensorFl
 4) Built our own GAN that can generate fake hands.
 
 License for all notebooks belong to DeepLearning.AI 
+
 CC-BY-NC-ND: deeplearning.ai
