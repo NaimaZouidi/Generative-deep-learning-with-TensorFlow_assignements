@@ -1,4 +1,4 @@
-# Generative-deep-learning-with-TensorFlow-assignements
+# Generative-deep-learning-with-Tensorflow-assignements
 
 This repository contain my answers to the Generative deep learning with TensorFlow in Coursera. In this course we explored style transfer and generative models such as Auto-encoders and Generative adversarial network (GAN). We also:
 
